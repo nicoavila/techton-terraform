@@ -1,5 +1,7 @@
 # Una gentil introducción a la infraestructura como código
 
+Slides: [URL](https://docs.google.com/presentation/d/1bk3nC_xvIYm9o4BSbNjs7-UFmGxicvyYA7wMpyIPHOI/edit?usp=sharing)
+
 ## Requerimientos
 1. Un computador con Windows, Linux o macOS
 2. Terraform
